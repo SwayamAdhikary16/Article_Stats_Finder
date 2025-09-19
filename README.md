@@ -8,6 +8,10 @@
 * **Article Content Extraction** **: Fetches and scrapes the main text content from the linked articles.**
 * **AI-Powered Analysis** **: Uses the Gemini Pro model to summarize and extract key statistics, percentages, and data points from the collected text.**
 * **Real-time Insights** **: Prints the URL and a summary of each article as it is processed.**
+  
+<p align="center">
+  <img src="flow.png" alt="Article Stats Finder" width="600">
+</p>
 
 ## Prerequisites
 
